@@ -1,7 +1,7 @@
 # Sistem-rental-playstation-fahry
 
-Program ini dibuat untuk memenuhi tugas mata kuliah Algoritma dan Pemrograman. Program mensimulasikan 
-sistem pembayaran dan pengelolaan billing pada Rental PlayStation.
+Aplikasi/program ini dirancang untuk menuntaskan tugas mata kuliah Algoritma dan Pemrograman. 
+fungsinya adalah mensimulasikan tata cara pembayaran dan manajemen waktu sewa atau billing di rental PlayStation.
 
 # Fitur
 - Alur Pemilihan Paket Sewa (Paket Hemat & Tanpa Batas)
@@ -13,5 +13,5 @@ sistem pembayaran dan pengelolaan billing pada Rental PlayStation.
 # Bahasa:
 - C++
 
-Author:
+# Author:
 - Ismael Yurcel (251011400254)
